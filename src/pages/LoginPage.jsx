@@ -85,7 +85,7 @@ export default function LoginPage({ onLogin }) {
           </div>
           <div>
             <div className="text-sm font-semibold leading-tight tracking-widest text-gray-900 uppercase">
-              Shelter Group
+              D365 Group
             </div>
             <div className="text-xs text-gray-400 tracking-wide mt-0.5">Analytics Platform</div>
           </div>
@@ -202,7 +202,7 @@ export default function LoginPage({ onLogin }) {
 
         {/* Footer note */}
         <p className="mt-8 font-mono text-xs tracking-wide text-center text-gray-300">
-          Shelter Group © 2025 · Analytics Platform
+          D365 Group © 2025 · Analytics Platform
         </p>
       </div>
     </div>

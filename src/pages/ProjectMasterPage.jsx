@@ -273,7 +273,7 @@ console.log("Logged User RecId:", userRecId);
                 <div>
 
                   <span className="text-sm font-semibold tracking-wide text-gray-900">
-                    SHELTER GROUP
+                    D365 Group
                   </span>
 
                   <span className="hidden ml-2 font-mono text-xs text-gray-300 md:inline">
